@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<Customer>
+	<Templates>
+		<TemplateDetails>
+			<formName>CA-7777 (07/07)</formName>
+			<priority>1</priority>
+		</TemplateDetails>
+		<TemplateDetails>
+			<formName>CA-7778 (10/03)</formName>
+			<priority>4</priority>
+		</TemplateDetails>
+		<TemplateDetails>
+			<formName>CA-7779 (15/04)</formName>
+			<priority>3</priority>
+		</TemplateDetails>
+	</Templates>
+	<Type>
+		<Type>Commercial inland marine coverage supplemental declarations annual transit coverage</Type>
+		<PrevPolicyNo>New</PrevPolicyNo>
+		<PolicyNo>A  9502356</PolicyNo>
+		<PolicyEffDate>01/01/2017</PolicyEffDate>
+		<CoverEffDate>01/01/2017</CoverEffDate>
+		<Term>08</Term>
+		<Revision>05</Revision>
+		<comType>AGENT.GRP</comType>
+		<producerCode>1821090 000100700000</producerCode>
+		<ratedState>NJ</ratedState>
+		<companyCode>26</companyCode>
+		<transaction>D</transaction>
+		<Coverage>
+			<type>Compulsory Bodily Injury</type>
+			<personLimit>20,000</personLimit>
+			<accidentLimit>40,000</accidentLimit>
+			<premium>219</premium>
+			<coveredAuto>1</coveredAuto>
+		</Coverage>
+		<Coverage>
+			<type>Personal Injury Protection Liability</type>
+			<personLimit></personLimit>
+			<accidentLimit>100,000</accidentLimit>
+			<premium>711</premium>
+			<coveredAuto>1</coveredAuto>
+		</Coverage>
+		<Coverage>
+			<type>Auto Medical Payments</type>
+			<personLimit>5,000</personLimit>
+			<accidentLimit></accidentLimit>
+			<premium>6</premium>
+			<coveredAuto>2</coveredAuto>
+		</Coverage>
+		<Coverage>
+			<type>Uninsured Motorist</type>
+			<personLimit></personLimit>
+			<accidentLimit></accidentLimit>
+			<premium></premium>
+			<coveredAuto></coveredAuto>
+		</Coverage>
+		<Coverage>
+			<type>Underinsured Motorist</type>
+			<personLimit></personLimit>
+			<accidentLimit></accidentLimit>
+			<premium></premium>
+			<coveredAuto></coveredAuto>
+		</Coverage>
+	</Type>
+</Customer>
+</root>
